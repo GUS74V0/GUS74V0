@@ -45,3 +45,7 @@
     <img width=32% align="right" src="https://github-readme-stats.vercel.app/api?username=GUS74V0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" /> 
       </a>  
 </div>
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=551A8B&height=120&section=footer"/>
