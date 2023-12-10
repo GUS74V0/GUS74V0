@@ -34,16 +34,8 @@
     <br>
   </p>
 <h2 align="center">GitHub Stats</h2>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=33% src="https://github-readme-streak-stats.herokuapp.com/?user=GUS74V0&theme=react&border=61dafb&hide_border=true&include_all_commits=true&count_private=true&" alt="GUS74V0" />
-    </a>
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=28% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUS74V0&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=5&layout=compact&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true&hide=ShaderLab,HLSL,html,dart" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=33% src="https://github-readme-stats.vercel.app/api?username=GUS74V0&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true&" />
-    </a>
-  </div>
-</p>
+<div  align="center" style="">
+    <img width=32% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=GUS74V0&theme=radical&mode=daily&hide_border=true" />
+    <img width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUS74V0&layout=compact&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width=32% align="right" src="https://github-readme-stats.vercel.app/api?username=GUS74V0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+</div>
