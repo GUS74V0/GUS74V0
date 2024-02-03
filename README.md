@@ -36,7 +36,7 @@
 <h2 align="center">GitHub Stats</h2>
 <div  align="center" style="">
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img width=32% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=GUS74V0&theme=radical&mode=daily&hide_border=true" /> 
+    <img width=32% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=GUS74V0&theme=radical&mode=daily&hide_border=true&include_all_commits=true&count_private=true" /> 
       </a>  
        <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUS74V0&theme=radical&layout=compact&hide_border=true&include_all_commits=true&count_private=true" /> 
