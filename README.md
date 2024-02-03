@@ -42,7 +42,7 @@
     <img width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUS74V0&theme=radical&layout=compact&hide_border=true&include_all_commits=true&count_private=true" /> 
        </a>  
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width=32% align="right" src="https://github-readme-stats.vercel.app/api?username=GUS74V0&show_icons=true&theme=radical&include_all_commits=false&count_private=true&hide_border=true" /> 
+    <img width=32% align="right" src="https://github-readme-stats.vercel.app/api?username=GUS74V0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" /> 
       </a>  
 </div>
 
