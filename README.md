@@ -18,7 +18,7 @@
 <br>
   <p>
     <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+    <code><img height="30" src=""></code>
     <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
     <br>
     <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
