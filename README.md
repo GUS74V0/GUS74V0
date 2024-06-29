@@ -17,20 +17,18 @@
 <h2 align="center">Languages & Tools</h2>
 <br>
   <p>
-    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-    <code><img height="30" src=""></code>
-    <code><img height="30" src=""></code>
+    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></code>
+    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
     <br>
-    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
+    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"></code>
+    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"></code>
+    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"></code>
+    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"></code>
     <br>
-    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg"></code>
+    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+    <code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
     <br>
   </p>
 <h2 align="center">GitHub Stats</h2>
