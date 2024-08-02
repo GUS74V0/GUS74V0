@@ -5,13 +5,13 @@
 </h1>
 <div align="center">
 <a href="https://github.com/GUS74V0" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg">
 </a>
 <a href="https://www.linkedin.com/in/gustavo-rodrigo-577837286/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg">
 </a>  
 <a href = "mailto:gustavorodrigocr@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg">
 </a>
 <br>
 <h2 align="center">Languages & Tools</h2>
