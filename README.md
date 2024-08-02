@@ -18,17 +18,16 @@
 <br>
   <p>
     <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></code>
-    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
+    <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
+    <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
     <br>
     <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"></code>
-    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"></code>
-    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"></code>
+    <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
     <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"></code>
     <br>
-    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-    <code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
+    <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
+    <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"></code>
+    <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"></code>
     <br>
   </p>
 <h2 align="center">GitHub Stats</h2>
