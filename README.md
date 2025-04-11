@@ -17,9 +17,7 @@
 <h2 align="center">Languages & Tools</h2>
 <br>
   <p>
-    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
     <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
-    <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
     <br>
     <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"></code>
     <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
