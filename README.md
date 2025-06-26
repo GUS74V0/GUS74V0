@@ -1,8 +1,3 @@
-https://www.canva.com/design/DAGrRRCPqAI/_z54UYPLteYEay40lq6jog/view?utm_content=DAGrRRCPqAI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he34928433f
-
-https://techassit5-480377632983.southamerica-east1.run.app/
-
-
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
