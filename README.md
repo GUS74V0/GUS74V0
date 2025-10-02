@@ -7,12 +7,9 @@
 <a href="https://github.com/GUS74V0" target="_blank">
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg">
 </a>
-<a href="https://www.linkedin.com/in/gustavo-rodrigo-577837286/" target="_blank">
+<a href="https://www.linkedin.com/in/gustavorodrigocr/" target="_blank">
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg">
 </a>  
-<a href = "mailto:gustavorodrigocr@gmail.com">
-<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg">
-</a>
 <br>
 <h2 align="center">Languages & Tools</h2>
 <br>
