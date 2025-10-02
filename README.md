@@ -11,9 +11,6 @@
 <a href="https://www.linkedin.com/in/gustavo-rodrigo-577837286/" target="_blank">
 <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg">
 </a>  
-<a href = "mailto:gustavorodrigocr@gmail.com">
-<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg">
-</a>
 <br>
 <h2 align="center">Languages & Tools</h2>
 <br>
@@ -31,15 +28,11 @@
   </p>
 <h2 align="center">GitHub Stats</h2>
 <div  align="center" style="">
-      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img width=32% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=GUS74V0&theme=radical&mode=daily&hide_border=true&include_all_commits=true&count_private=true" /> 
-      </a>  
-       <a href="https://github.com/anuraghazra/github-readme-stats">
- <img width=32% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GUS74V0&theme=radical&show_icons=true&locale=en&layout=compact&hide_border=true&include_all_commits=true&count_private=true" alt="gus74v0" />
-       </a>  
-      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width=32% align="right" src="https://github-readme-stats.vercel.app/api?username=GUS74V0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" /> 
-      </a>  
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gus74v0&show_icons=true&locale=en&layout=compact" alt="gus74v0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gus74v0&show_icons=true&locale=en" alt="gus74v0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gus74v0&" alt="gus74v0" /></p>
 
 </div>
 
