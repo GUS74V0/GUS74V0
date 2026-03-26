@@ -15,6 +15,7 @@
 <br>
   <p>
     <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"></code>
+    <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
     <br>
     <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"></code>
     <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
@@ -22,7 +23,6 @@
     <br>
     <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
     <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"></code>
-    <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"></code>
     <br>
   </p>
 <h2 align="center">GitHub Stats</h2>
