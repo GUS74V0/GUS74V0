@@ -22,6 +22,7 @@
     <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
     <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"></code>
     <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"></code>
+    <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg"></code>
     <br>
     <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
     <code><img height="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
